@@ -1,0 +1,24 @@
+.textWrapper {
+    width: 526px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .titleWrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  
+  .priceWrapper {
+    position: relative;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+  }
+  
+  .supportingText {
+    color: var(--steel-gray);
+    font-size: 16px;
+  }
