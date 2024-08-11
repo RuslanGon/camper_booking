@@ -1,0 +1,12 @@
+.reviews {
+    width: 430px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+  
+  .review {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
